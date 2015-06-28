@@ -5,12 +5,12 @@ jQuery(document).ready(function() {
         Product showcase background
     */
     $('.product-showcase').backstretch([
-      "assets/img/backgrounds/1-.jpg"
-    , "assets/img/backgrounds/1.jpg"
-    , "assets/img/backgrounds/1--.jpg"
-    , "assets/img/backgrounds/2.jpg"
-    , "assets/img/backgrounds/5.jpg"
-    ], {duration: 3000, fade: 750});
+      "assets/img/backgrounds/A.jpg"
+    , "assets/img/backgrounds/B.jpg"
+    , "assets/img/backgrounds/C.jpg"
+    , "assets/img/backgrounds/D.jpg"
+    , "assets/img/backgrounds/E.jpg"
+    ], {duration: 5000, fade: 750});
 
     /*
         Countdown initializer

@@ -11,7 +11,7 @@
 
 body {
     background: #f8f8f8 url(../img/pattern.jpg);
-    border-top: 4px solid #518d8a;
+    border-top: 4px solid #CC0000;
     font-family: 'PT Sans', Helvetica, Arial, sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -38,7 +38,7 @@ a:hover { text-decoration: none; }
     -webkit-transition: all .2s;
     -ms-transition: all .2s;
 }
-.logo a:hover { color: #518d8a; }
+.logo a:hover { color: #CC0000; }
 
 .tel-skype p {
     margin-top: 18px;
@@ -54,8 +54,8 @@ a:hover { text-decoration: none; }
 
 .tel-skype .pipe { margin: 0 7px 0 5px; color: #ccc; }
 
-::-moz-selection { background: #518d8a; color: #fff; text-shadow: none; }
-::selection { background: #518d8a; color: #fff; text-shadow: none; }
+::-moz-selection { background: #CC0000; color: #fff; text-shadow: none; }
+::selection { background: #CC0000; color: #fff; text-shadow: none; }
 
 
 /***** Product Showcase / Coming Soon *****/
@@ -155,7 +155,7 @@ a:hover { text-decoration: none; }
 .product-description form button {
     margin-top: 10px;
     padding: 12px 25px;
-    background: #518d8a;
+    background: #CC0000;
     border: 0;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -390,7 +390,7 @@ footer a:hover { color: #aaa; }
 .contact-us form button {
     margin: 2px 0 0 191px;
     padding: 7px 15px;
-    background: #518d8a;
+    background: #CC0000;
     border: 0;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
